@@ -1,0 +1,17 @@
+.DS_Store
+.atom/
+.idea
+.pub/
+.packages
+build/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+.packages.mac
+.packages.win
+.packages
+*.log
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+screenshots/raw
